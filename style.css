@@ -1,0 +1,15 @@
+.completed {
+    text-decoration: line-through;
+}
+
+body {
+    background-color: slategray;
+}
+
+span {
+    margin-right:7px;
+}
+
+button {
+    margin-right:7px;
+}
